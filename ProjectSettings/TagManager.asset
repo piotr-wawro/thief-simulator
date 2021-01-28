@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Item
+  - HeavyItem
+  - Door
+  - Carpet
+  - Tiles
+  - cash
   layers:
   - Default
   - TransparentFX
@@ -13,11 +19,11 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Door
+  - DoorFrame
+  - DoorFrame2
+  - Door2
   - 
   - 
   - 
